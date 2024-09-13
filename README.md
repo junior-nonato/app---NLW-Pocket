@@ -1,4 +1,4 @@
-## Seu App de Metas Personalizado: Organize sua vida com facilidade!
+## App de Metas Personalizado: Organize sua vida com facilidade!
 O que faz esse app?
 
 Esse app é seu parceiro para alcançar seus objetivos! Com ele, você pode:
